@@ -1,14 +1,11 @@
-# :wave: Greetings! I'm Nathan!
+# :wave: Hi, I'm Nathan!
 
-:computer: I'm a self-taught coder working mostly with JavaScript/CSS/HTML
+# Try out the Sceneboard! https://natedavies.github.io/Sceneboard/
 
-:seedling: I'm currently aiming to learn Node.js and React
+:computer: Self-taught developer working mostly with JavaScript/CSS/HTML
 
-:desktop_computer: I've been a Diablo II enjoyer most of my life
+:seedling: Currently aiming to learn Node.js and React
 
-:performing_arts: I have a background in theater and film
+:desktop_computer: Been a Diablo II enjoyer most of my life
 
-
-
-
-
+:performing_arts: Background in theater and film
