@@ -4,7 +4,7 @@
 
 :performing_arts: I have a background in theater and film - Here's a website I built: https://conasaugashakespeare.com/
 
-:computer: Self-taught developer working mostly with JavaScript/CSS/HTML, though I utilized PHP/Python/Node.js each exactly one time :slightly_smiling_face:
+:computer: Self-taught developer working mostly with JavaScript/CSS/HTML.
 
 :seedling: Currently aiming to learn Node.js and React
 
